@@ -1,0 +1,17 @@
+{
+	"docs": [{
+		"title": "How to Create Avery Labels with Images, Barcodes & QR Codes in Google Docs",
+		"url": "https://www.youtube.com/watch?v=ccWh6Gp4dMc",
+		"default": true
+	}],
+	"sheets": [{
+		"title": "How to Create Shipping Labels for Free in Google Sheets with OpenTemply Label Maker",
+		"url": "https://www.youtube.com/watch?v=t3XSbtg0OzU",
+		"default": true
+	}],
+	"slides": [{
+		"title": "How to Create Product Barcode Labels for Free using OpenTemply Label Maker",
+		"url": "https://www.youtube.com/watch?v=QkhwaedBTNQ",
+		"default": true
+	}]
+}
